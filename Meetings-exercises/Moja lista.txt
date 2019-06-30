@@ -1,0 +1,4 @@
+Imie, Nazwisko, Grupa
+ja, marzena, laba
+laba, ja, marzena
+1, 2, 3

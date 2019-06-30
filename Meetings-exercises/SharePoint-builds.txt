@@ -1,0 +1,13 @@
+<Product Version>4.1.00000.01496</Product Version>
+<FT-TAF Testware>4.1.00000.01073</FT-TAF Testware>
+<ViewE Image>4.1.00000.01495</ViewE Image>
+<Control Flash Kits>4.1.00000.01495</Control Flash Kits>
+<Rescue Image>4.1.00000.01495</Rescue Image>
+<LogixDesigner>INT_V30.00_A29</LogixDesigner>
+<LogixFW>REL_ICE1_R30_26 or REL_ICE2_R30_545</LogixFW>
+<ViewPlatform>3.0.00001.00124</ViewPlatform>
+<View Designer PreReqs>Designer PreReqs V0.03 (VS 2015 Shell)</View Designer PreReqs>
+<FTSP>FTSP v2.90.00.172</FTSP>
+<FTA>FTA 4.01.00.0069</FTA>
+<RSLinx>RSLinx Classic 3.90.00.24</RSLinx>
+<ControlFlash>ControlFLASH 14.01.00.01</ControlFlash>
